@@ -1,47 +1,59 @@
-🕯️ The Survey — Jogo de Terror Psicológico em Pygame
-Uma experiência interativa que testa seus limites emocionais. Você está pronto para responder?
+# 🕯️ The Survey — Jogo de Terror Psicológico em Pygame
 
-🧠 Sobre o projeto
-The Survey é um jogo de terror psicológico desenvolvido com Python e Pygame, onde o jogador é conduzido por uma sequência de perguntas cada vez mais perturbadoras. A atmosfera sombria, os efeitos visuais e a narrativa interativa criam uma experiência imersiva que desafia sua percepção e controle.
+> Uma experiência interativa que testa seus limites emocionais. Você está pronto para responder?
 
-Este projeto foi criado com fins educacionais e criativos, ideal para estudantes e desenvolvedores que desejam explorar jogos narrativos com impacto emocional.
+---
 
-🧟‍♂️ Características
-🎮 Interface gráfica com Pygame
+## 🎓 Projeto Educacional
 
-🧩 Sistema de perguntas com lógica condicional
+Este projeto foi desenvolvido como parte das atividades da **Professora Regilaine** com a **turma 2CD — Tecnologia em Ciência de Dados**, da **Escola Dr. Américo Marco Antônio**, localizada em Osasco, São Paulo.
 
-🌀 Efeitos de tremor e distorção visual
+O objetivo é aplicar conceitos de programação, lógica computacional e interação humano-computador por meio de uma experiência narrativa envolvente e provocadora.
 
-🔒 Simulação de erro de senha e verificação de identidade
+---
 
-🎃 Final com fade escuro e arte ASCII (opcional)
+## 🎮 Sobre o jogo
 
-🧠 Narrativa interativa com temas psicológicos
+**The Survey** é um jogo de perguntas e respostas com atmosfera sombria. O jogador é conduzido por uma sequência de questões cada vez mais pessoais, que desafiam sua percepção, memória e emoções. Ao final, uma revelação visual encerra a jornada.
 
-📦 Requisitos
-Python 3.8 ou superior
+---
 
-Biblioteca Pygame instalada:
+## 🧾 Funcionalidades
 
-bash
-pip install pygame
+- ✅ Interface gráfica com Pygame
+- 🧠 Questionário psicológico com narrativa interativa
+- 🌀 Efeitos de tremor e distorção visual
+- 🔒 Simulação de erro de senha e verificação de identidade
+- 🎃 Final com fade escuro e arte ASCII (opcional)
+- 🧩 Código limpo e fácil de modificar
+
+---
+
+## 📦 Requisitos
+
+- Python 3.8 ou superior
+- Biblioteca Pygame instalada:
+
+  pip install pygame
+
+  
 🚀 Como executar
+
 Clone o repositório:
 
-bash
 git clone https://github.com/seu-usuario/the-survey-horror.git
 cd the-survey-horror
+
 Execute o jogo:
 
-bash
 python survey_game.py
+
 📁 Estrutura do projeto
 text
 the-survey-horror/
 ├── survey_game.py       # Código principal do jogo
-├── assets/              # (opcional) pasta para sons, fontes ou imagens futuras
 ├── README.md            # Documentação do projeto
+
 🛠️ Personalização
 Você pode adaptar o jogo facilmente:
 
@@ -57,8 +69,8 @@ Você pode adaptar o jogo facilmente:
 Este projeto está licenciado sob a MIT License. Você pode usar, modificar e distribuir livremente, desde que mantenha os créditos originais.
 
 🤝 Créditos
-Desenvolvido pela turma 2 CD-Tecnologia em Ciencia de Dados, ensino medio tecnico Escola Dr Americo Marco Antonio - Professora Regilaine Souza 
-Inspirado por narrativas interativas e jogos de terror psicológico.
+Desenvolvido por Professora Regilaine e a turma 2CD — Tecnologia em Ciência de Dados
+📍 Escola Dr. Américo Marco Antônio — Osasco/SP
 
 💬 Contato
-Para dúvidas, sugestões ou contribuições, abra uma issue neste repositório ou envie uma mensagem direta.
+Para dúvidas, sugestões ou contribuições, entre em contato com a equipe docente ou abra uma issue neste repositório.
